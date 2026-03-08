@@ -65,31 +65,32 @@ C:\xampp\htdocs\Group5MajorProjectITT307
    - Login with any registered **EIN** (use the EIN as the password).
 
 ## File Structure
-
+```
 C:\xampp\htdocs\Group5MajorProjectITT307
-│ Built-in Queries.php
-│ connection.php
-│ Custom Queries.php
-│ Dashboard.php
-│ DBbackground.jpeg
-│ DBlogo.png
-│ delete.php
-│ Email Functionality.php
-│ home.html
-│ homebg.png
-│ Internet Authoring II Major Project Group 5.sql
-│ login.php
-│ loginbg.jpg
-│ logout.php
-│ Menu.html
-│ register.php
-│ registerbg.png
-│ settings.php
-│ updateprocess.php
+│   Built-in Queries.php
+│   connection.php
+│   Custom Queries.php
+│   Dashboard.php
+│   DBbackground.jpeg
+│   DBlogo.png
+│   delete.php
+│   Email Functionality.php
+│   home.html
+│   homebg.png
+│   Internet Authoring II Major Project Group 5.sql
+│   login.php
+│   loginbg.jpg
+│   logout.php
+│   Menu.html
+│   register.php
+│   registerbg.png
+│   settings.php
+│   updateprocess.php
 │
-└───PHPMailer # Third-party library for sending emails
-├───language # Localisation files
-└───src # Core PHP classes
+└───PHPMailer          # Third-party library for sending emails
+    ├───language       # Localisation files
+    └───src             # Core PHP classes
+```
 
 ## Screenshots
 
